@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MYARPG",
+			"Path": "..\\Source\\MYARPG.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MYARPGEditor",
+			"Path": "..\\Source\\MYARPGEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

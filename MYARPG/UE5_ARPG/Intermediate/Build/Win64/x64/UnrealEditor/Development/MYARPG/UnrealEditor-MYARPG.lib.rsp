@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MYARPG.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\ARPG\MYARPG\Intermediate\Build\Win64\x64\MYARPGEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\ARPG\MYARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MYARPG\MYARPG.init.gen.cpp.obj"
+"D:\ARPG\MYARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MYARPG\TP_ThirdPersonCharacter.gen.cpp.obj"
+"D:\ARPG\MYARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MYARPG\TP_ThirdPersonGameMode.gen.cpp.obj"
+"D:\ARPG\MYARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MYARPG\MYARPG.cpp.obj"
+"D:\ARPG\MYARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MYARPG\TP_ThirdPersonCharacter.cpp.obj"
+"D:\ARPG\MYARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MYARPG\TP_ThirdPersonGameMode.cpp.obj"
+"D:\ARPG\MYARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MYARPG\Default.rc2.res"
+/OUT:"D:\ARPG\MYARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MYARPG\UnrealEditor-MYARPG.lib"
